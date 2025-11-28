@@ -1,10 +1,18 @@
 [package]
-name = "thorium"
+name = "torio"
 description = "The Package Manager for Thrush Programming Language."
-license = "GPL-3.0"
-license-file = "LICENSE.txt"
-version = "1.0.0"
 edition = "2024"
+license = "GPL-3.0"
+version = "0.1.0"
+rust-version = "1.85.0"
+
+authors = [
+    "Thrush Team <thrushlangproject@gmail.com>",
+    "Stevens Benavides <foss.stevens.benavides@gmail.com>"
+]
+
+homepage = "https://github.com/thrushlang/torio"
+repository = "https://github.com/thrushlang/torio"
 
 [dependencies]
 toml = "0.8.22"

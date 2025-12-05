@@ -14,6 +14,6 @@ abstract: >-
   The package manager and compiler-controller for the Thrush
   Programming Language.
 keywords:
-  - Programming Languague
+  - Programming Language
   - Thrush Programming Language
 license: GPL-3.0

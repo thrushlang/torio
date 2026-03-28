@@ -7,8 +7,7 @@ There is a simple guide of standard conventions to follow in order to delivery a
 ### Title
 
 It needs to be detailed. It can be include a lot of technical slang.
-
-The base of a well designed Github commit title always will be and needs a specific this syntax as:
+The base of a well designed Github commit title always will be and needs a specific syntax as:
 
 #### Title - features
 

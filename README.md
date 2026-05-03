@@ -2,6 +2,8 @@
 
 # The Thrust Package Manager 
 
+<img src= "https://github.com/thrustlang/.github/blob/main/assets/standard-text-separator.png" alt= "standard-separator" style= "width: 1hv;"> </img>
+
 The Thrust package manager is the high-level representation of the Thrush compiler, responsible for managing compilation, installation, dependency management, incremental compilation, project creation, and successful compilation of each project.
 
 ## Installation
